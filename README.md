@@ -35,7 +35,7 @@ sudo apt-get install -y nodejs
 -------
 ### Install
 ```
-git clone https://github.com/cryptosharks131/NiceNOMP.git pool
+git clone https://github.com/digvpn/NiceNOMP.git pool
 sudo chmod a+rwx pool
 cd pool
 sudo npm install
