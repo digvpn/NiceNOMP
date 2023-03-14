@@ -52,7 +52,7 @@
         "request": "^2.83.0",
         "sma": "^0.1.0",
         "stratum-pool": "git://github.com/UNOMP/node-merged-pool",
-		"multi-hasing": "git://github.com/cryptosharks131/node-multi-hashing"
+		"multi-hasing": "git://github.com/cryptosharks131/node-multi-hashing",
         "winston": "3.0.0-rc2",
         "winston-daily-rotate-file": "^3.0.0"
     },
