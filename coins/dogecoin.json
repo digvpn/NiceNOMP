@@ -1,0 +1,7 @@
+{
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "algorithm": "scrypt",
+	"getblocktemplate": "POW", 
+    "reward": "POW"
+}
